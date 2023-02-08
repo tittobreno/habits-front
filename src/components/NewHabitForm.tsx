@@ -1,5 +1,5 @@
-import { Check } from "phosphor-react";
 import * as Checkbox from "@radix-ui/react-checkbox";
+import { Check } from "phosphor-react";
 import { FormEvent, useState } from "react";
 import { api } from "../lib/axios";
 
